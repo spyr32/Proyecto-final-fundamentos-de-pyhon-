@@ -1,0 +1,51 @@
+Año,Artículo,Cantidad_Vendida,Precio_Promedio,Provincia
+2020,Arroz,3480,713.76,Heredia
+2020,Frijoles,1588,1032.75,Cartago
+2020,Azúcar,6072,899.68,Limón
+2020,Leche,6525,710.86,Limón
+2020,Pan,2406,679.18,Limón
+2020,Aceite,5794,1154.87,Limón
+2020,Huevos,7427,1541.08,Puntarenas
+2020,Pasta,3654,774.48,Heredia
+2020,Carne,7742,3863.58,Heredia
+2020,Verduras,1385,755.21,Puntarenas
+2021,Arroz,8628,680.8,Alajuela
+2021,Frijoles,8939,1079.39,Limón
+2021,Azúcar,8098,755.21,Puntarenas
+2021,Leche,4251,979.35,Guanacaste
+2021,Pan,1960,548.87,Guanacaste
+2021,Aceite,8629,1017.81,Heredia
+2021,Huevos,5325,1812.77,Cartago
+2021,Pasta,3017,730.0,Alajuela
+2021,Carne,1850,4017.21,Limón
+2021,Verduras,1712,875.77,San José
+2022,Arroz,7453,801.07,Cartago
+2022,Frijoles,3162,1024.33,Puntarenas
+2022,Azúcar,8960,882.72,Guanacaste
+2022,Leche,4882,796.5,Heredia
+2022,Pan,1847,595.85,San José
+2022,Aceite,6924,981.19,Puntarenas
+2022,Huevos,7887,1522.36,Guanacaste
+2022,Pasta,4600,723.25,Limón
+2022,Carne,4266,3430.81,Cartago
+2022,Verduras,4638,659.67,Limón
+2023,Arroz,8466,699.24,Alajuela
+2023,Frijoles,5095,1412.27,Puntarenas
+2023,Azúcar,8751,849.87,Limón
+2023,Leche,1596,976.04,Puntarenas
+2023,Pan,8271,588.49,Guanacaste
+2023,Aceite,9541,1425.34,Heredia
+2023,Huevos,9728,1916.01,Limón
+2023,Pasta,1143,706.23,Limón
+2023,Carne,2164,3226.83,Alajuela
+2023,Verduras,7035,801.6,Cartago
+2024,Arroz,8573,667.17,Alajuela
+2024,Frijoles,8990,1014.46,Heredia
+2024,Azúcar,5311,888.55,Puntarenas
+2024,Leche,4291,776.15,Puntarenas
+2024,Pan,9495,577.8,Limón
+2024,Aceite,2966,1336.89,Puntarenas
+2024,Huevos,3318,1935.77,Guanacaste
+2024,Pasta,8859,583.13,Limón
+2024,Carne,4362,4033.97,San José
+2024,Verduras,3014,589.39,San José
